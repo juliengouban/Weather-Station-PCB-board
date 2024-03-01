@@ -26,11 +26,11 @@ For the push-button, we added a pull-down resistor so that it's in the low state
 
 We then added an RTC module to keep the correct time even when our board is not powered:
 
-![alt text 1](picture/at2.png) 
+![alt text 1](picture/att3.png) 
 
 We have a 7-segment 4-digit display for time, temperature and humidity : 
 
-![alt text 1](picture/att3.png) 
+![alt text 1](picture/at2.png) 
 
 ## PCB Design
 
@@ -53,7 +53,7 @@ Here is a 3d view of the PCB:
 
 ## Arduino Factory
 
- * [More details on this project](https://arduinofactory.fr/carte-pcb-pic16f/)
+ * [More details on this project](https://arduinofactory.fr/carte-pcb-station-meteo/)
   
 
 
